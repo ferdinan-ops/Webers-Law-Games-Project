@@ -5,4 +5,7 @@
 <h2>Objectives</h2>
 <ol>
   <li>You  will   know  the  human  ability  of  distinguishing  differences  in  rectangular shapes.</li>
+  <li></li>
+  <li></li>
+  <li></li>
 </ol>
