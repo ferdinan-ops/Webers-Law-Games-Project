@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{81D1C863-8F9F-4BC5-8336-5E7E0B3C408F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Weber_Law.My.MyApplication</StartupObject>
+    <RootNamespace>Weber_Law</RootNamespace>
+    <AssemblyName>Weber Law</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Weber Law.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Weber Law.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\..\..\..\file transfer\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna.UI-Framework-Lib-master\Guna.UI WinForms\.net 4.0\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Choose Game.Designer.vb">
+      <DependentUpon>Choose Game.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Choose Game.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Circular Shapes.Designer.vb">
+      <DependentUpon>Circular Shapes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Circular Shapes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Color Opacity.Designer.vb">
+      <DependentUpon>Color Opacity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Color Opacity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Guide Circular and Opacity.Designer.vb">
+      <DependentUpon>Guide Circular and Opacity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Guide Circular and Opacity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.vb">
+      <DependentUpon>Home.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Guide Rectangular.Designer.vb">
+      <DependentUpon>Guide Rectangular.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Guide Rectangular.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rectangular Shapes.Designer.vb">
+      <DependentUpon>Rectangular Shapes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Rectangular Shapes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="True Answer.Designer.vb">
+      <DependentUpon>True Answer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="True Answer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Wrong Answer.Designer.vb">
+      <DependentUpon>Wrong Answer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Wrong Answer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Choose Game.resx">
+      <DependentUpon>Choose Game.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Circular Shapes.resx">
+      <DependentUpon>Circular Shapes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Color Opacity.resx">
+      <DependentUpon>Color Opacity.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Guide Circular and Opacity.resx">
+      <DependentUpon>Guide Circular and Opacity.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Guide Rectangular.resx">
+      <DependentUpon>Guide Rectangular.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rectangular Shapes.resx">
+      <DependentUpon>Rectangular Shapes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="True Answer.resx">
+      <DependentUpon>True Answer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wrong Answer.resx">
+      <DependentUpon>Wrong Answer.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

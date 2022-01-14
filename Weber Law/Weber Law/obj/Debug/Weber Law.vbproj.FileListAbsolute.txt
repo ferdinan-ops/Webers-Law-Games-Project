@@ -1,0 +1,20 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\Weber Law\bin\Debug\Weber Law.exe.config
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Weber Law Project\Weber Law\Weber Law\bin\Debug\Weber Law.exe.config
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Weber Law Project\Weber Law\Weber Law\bin\Debug\Weber Law.exe
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Weber Law Project\Weber Law\Weber Law\bin\Debug\Weber Law.pdb
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Weber Law Project\Weber Law\Weber Law\bin\Debug\Weber Law.xml
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Weber Law Project\Weber Law\Weber Law\bin\Debug\Guna.UI.dll
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Weber Law Project\Weber Law\Weber Law\obj\Debug\Weber_Law.Choose_Game.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Weber Law Project\Weber Law\Weber Law\obj\Debug\Weber_Law.Home.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Weber Law Project\Weber Law\Weber Law\obj\Debug\Weber_Law.Resources.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Weber Law Project\Weber Law\Weber Law\obj\Debug\Weber_Law.Rectangular_Shapes.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Weber Law Project\Weber Law\Weber Law\obj\Debug\Weber_Law.Wrong_Answer.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Weber Law Project\Weber Law\Weber Law\obj\Debug\Weber Law.vbproj.GenerateResource.Cache
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Weber Law Project\Weber Law\Weber Law\obj\Debug\Weber Law.exe
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Weber Law Project\Weber Law\Weber Law\obj\Debug\Weber Law.xml
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Weber Law Project\Weber Law\Weber Law\obj\Debug\Weber Law.pdb
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Weber Law Project\Weber Law\Weber Law\obj\Debug\Weber_Law.Circular_Shapes.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Weber Law Project\Weber Law\Weber Law\obj\Debug\Weber_Law.Color_Opacity.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Weber Law Project\Weber Law\Weber Law\obj\Debug\Weber_Law.Guide_Circular_and_Opacity.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Weber Law Project\Weber Law\Weber Law\obj\Debug\Weber_Law.Petunjuk.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Weber Law Project\Weber Law\Weber Law\obj\Debug\Weber_Law.True_Answer.resources
