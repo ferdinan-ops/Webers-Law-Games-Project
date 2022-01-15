@@ -6,6 +6,6 @@
 <ol>
   <li>You  will   know  the  human  ability  of  distinguishing  differences  in  rectangular shapes.</li>
   <li>You  will   know  the  human  ability  of  distinguishing  differences  in circular shapes. </li>
-  <li></li>
+  <li>You  will   know  the  human  ability  of  distinguishing differences  in color (opacity).</li>
   <li></li>
 </ol>
