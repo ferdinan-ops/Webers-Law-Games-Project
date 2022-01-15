@@ -7,5 +7,5 @@
   <li>You  will   know  the  human  ability  of  distinguishing  differences  in  rectangular shapes.</li>
   <li>You  will   know  the  human  ability  of  distinguishing  differences  in circular shapes. </li>
   <li>You  will   know  the  human  ability  of  distinguishing differences  in color (opacity).</li>
-  <li></li>
+  <li>You  will  be able to compute  the Weber fraction (K) for  various  measures  mentioned  above.</li>
 </ol>
