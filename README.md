@@ -11,7 +11,16 @@
 </ol>
 
 # ScreenShoots
-![Home](https://user-images.githubusercontent.com/84588706/149603223-b68236eb-bb7c-4aa4-ad4d-26090374279a.jpg)
+<ol>
+  <li>
+      <h3>Home</h3>
+      <img src="https://user-images.githubusercontent.com/84588706/149603223-b68236eb-bb7c-4aa4-ad4d-26090374279a.jpg" alt="Home">
+  </li>
+  <li>You  will   know  the  human  ability  of  distinguishing  differences  in circular shapes. </li>
+  <li>You  will   know  the  human  ability  of  distinguishing differences  in color (opacity).</li>
+  <li>You  will  be able to compute  the Weber fraction (K) for  various  measures  mentioned  above.</li>
+</ol>
+![Home]()
 
 ![Choose Game](https://user-images.githubusercontent.com/84588706/149603502-66e615ca-2cff-4226-93a3-28b57490e18a.jpg)
 
