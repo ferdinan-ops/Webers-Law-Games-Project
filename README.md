@@ -11,10 +11,14 @@
 </ol>
 
 # ScreenShoots
-<ol>
+<ul>
   <li>
       <h3>Home</h3>
       <img src="https://user-images.githubusercontent.com/84588706/149603223-b68236eb-bb7c-4aa4-ad4d-26090374279a.jpg" alt="Home">
+  </li>
+  <li>
+      <h3>Choose Games</h3>
+      <img src="https://user-images.githubusercontent.com/84588706/149603502-66e615ca-2cff-4226-93a3-28b57490e18a.jpg" alt="Choose Games">
   </li>
   <li>
       <h3>Home</h3>
@@ -28,14 +32,7 @@
       <h3>Home</h3>
       <img src="https://user-images.githubusercontent.com/84588706/149603223-b68236eb-bb7c-4aa4-ad4d-26090374279a.jpg" alt="Home">
   </li>
-  <li>
-      <h3>Home</h3>
-      <img src="https://user-images.githubusercontent.com/84588706/149603223-b68236eb-bb7c-4aa4-ad4d-26090374279a.jpg" alt="Home">
-  </li>
-</ol>
-![Home]()
-
-![Choose Game](https://user-images.githubusercontent.com/84588706/149603502-66e615ca-2cff-4226-93a3-28b57490e18a.jpg)
+</ul>
 
 ![Rectangular Shapes](https://user-images.githubusercontent.com/84588706/149603512-86a1464c-c8c8-46b9-a0ec-b3bb300a961f.jpg)
 
