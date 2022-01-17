@@ -25,8 +25,8 @@
       <img src="https://user-images.githubusercontent.com/84588706/149603512-86a1464c-c8c8-46b9-a0ec-b3bb300a961f.jpg" alt="Rectangular Shapes">
   </li>
   <li>
-      <h3>Home</h3>
-      <img src="https://user-images.githubusercontent.com/84588706/149603223-b68236eb-bb7c-4aa4-ad4d-26090374279a.jpg" alt="Home">
+      <h3>Circular Shapes</h3>
+      <img src="https://user-images.githubusercontent.com/84588706/149603223-b68236eb-bb7c-4aa4-ad4d-26090374279a.jpg" alt="Circular Shapes">
   </li>
   <li>
       <h3>Home</h3>
@@ -36,7 +36,7 @@
 
 ![]()
 
-![Circular Shapes](https://user-images.githubusercontent.com/84588706/149603528-09e34674-f3fa-42c3-bfe1-0d4592d41c95.jpg)
+![](https://user-images.githubusercontent.com/84588706/149603528-09e34674-f3fa-42c3-bfe1-0d4592d41c95.jpg)
 
 ![Color Opacity](https://user-images.githubusercontent.com/84588706/149645854-3cb90b39-2ed9-4df2-8f1e-4c9a763b3cb0.jpg)
 
