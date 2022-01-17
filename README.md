@@ -42,11 +42,6 @@
   </li>
 </ul>
 
-![]()
-
-![]()
-
-![]()
 
 ![True](https://user-images.githubusercontent.com/84588706/149645858-7b9dfd76-5393-4db6-ba1b-8daf050a058f.jpg)
 
