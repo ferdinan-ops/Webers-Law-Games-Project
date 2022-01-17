@@ -32,6 +32,14 @@
       <h3>Color Opacity</h3>
       <img src="https://user-images.githubusercontent.com/84588706/149645854-3cb90b39-2ed9-4df2-8f1e-4c9a763b3cb0.jpg" alt="Color Opacity">
   </li>
+  <li>
+      <h3>Color Opacity</h3>
+      <img src="https://user-images.githubusercontent.com/84588706/149645854-3cb90b39-2ed9-4df2-8f1e-4c9a763b3cb0.jpg" alt="Color Opacity">
+  </li>
+  <li>
+      <h3>Color Opacity</h3>
+      <img src="https://user-images.githubusercontent.com/84588706/149645854-3cb90b39-2ed9-4df2-8f1e-4c9a763b3cb0.jpg" alt="Color Opacity">
+  </li>
 </ul>
 
 ![]()
