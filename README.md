@@ -22,7 +22,7 @@
   </li>
   <li>
       <h3>Rectangular Shapes</h3>
-      <img src="https://user-images.githubusercontent.com/84588706/149603223-b68236eb-bb7c-4aa4-ad4d-26090374279a.jpg" alt="Rectangular Shapes">
+      <img src="https://user-images.githubusercontent.com/84588706/149603512-86a1464c-c8c8-46b9-a0ec-b3bb300a961f.jpg" alt="Rectangular Shapes">
   </li>
   <li>
       <h3>Home</h3>
@@ -34,7 +34,7 @@
   </li>
 </ul>
 
-![](https://user-images.githubusercontent.com/84588706/149603512-86a1464c-c8c8-46b9-a0ec-b3bb300a961f.jpg)
+![]()
 
 ![Circular Shapes](https://user-images.githubusercontent.com/84588706/149603528-09e34674-f3fa-42c3-bfe1-0d4592d41c95.jpg)
 
