@@ -38,12 +38,12 @@
   </li>
   <li>
       <h3>Wrong</h3>
-      <img src="https://user-images.githubusercontent.com/84588706/149645854-3cb90b39-2ed9-4df2-8f1e-4c9a763b3cb0.jpg" alt="Wrong">
+      <img src="https://user-images.githubusercontent.com/84588706/149645862-f5f655ab-df56-48d5-85d5-95c3fbbede25.jpg" alt="Wrong">
   </li>
 </ul>
 
 
 ![])
 
-![](https://user-images.githubusercontent.com/84588706/149645862-f5f655ab-df56-48d5-85d5-95c3fbbede25.jpg)
+![]()
 
