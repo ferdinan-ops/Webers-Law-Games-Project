@@ -33,8 +33,8 @@
       <img src="https://user-images.githubusercontent.com/84588706/149645854-3cb90b39-2ed9-4df2-8f1e-4c9a763b3cb0.jpg" alt="Color Opacity">
   </li>
   <li>
-      <h3>Color Opacity</h3>
-      <img src="https://user-images.githubusercontent.com/84588706/149645854-3cb90b39-2ed9-4df2-8f1e-4c9a763b3cb0.jpg" alt="Color Opacity">
+      <h3>True</h3>
+      <img src="https://user-images.githubusercontent.com/84588706/149645854-3cb90b39-2ed9-4df2-8f1e-4c9a763b3cb0.jpg" alt="True">
   </li>
   <li>
       <h3>Color Opacity</h3>
@@ -43,7 +43,7 @@
 </ul>
 
 
-![True](https://user-images.githubusercontent.com/84588706/149645858-7b9dfd76-5393-4db6-ba1b-8daf050a058f.jpg)
+![](https://user-images.githubusercontent.com/84588706/149645858-7b9dfd76-5393-4db6-ba1b-8daf050a058f.jpg)
 
 ![Wrong](https://user-images.githubusercontent.com/84588706/149645862-f5f655ab-df56-48d5-85d5-95c3fbbede25.jpg)
 
