@@ -41,9 +41,3 @@
       <img src="https://user-images.githubusercontent.com/84588706/149645862-f5f655ab-df56-48d5-85d5-95c3fbbede25.jpg" alt="Wrong">
   </li>
 </ul>
-
-
-![])
-
-![]()
-
