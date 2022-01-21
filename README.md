@@ -11,6 +11,13 @@
 </ol>
 
 <h2>What I Used</h2>
+<ol>
+  <li><b>Language:</b></li>
+  <li><b>Framework:</b></li>
+  <li><b>Pictures:</b></li>
+  <li><b>CI/CD:</b></li>
+</ol>
+
 # ScreenShoots
 <ul>
   <li>
