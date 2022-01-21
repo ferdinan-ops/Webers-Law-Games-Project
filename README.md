@@ -12,10 +12,10 @@
 
 <h2>What I Used</h2>
 <ol>
-  <li><b>Language:</b></li>
-  <li><b>Framework:</b></li>
-  <li><b>Pictures:</b></li>
-  <li><b>CI/CD:</b></li>
+  <li><b>Language:</b> Visual Basic</li>
+  <li><b>Framework:</b> GUNA UI</li>
+  <li><b>Pictures:</b> Pinterest, Flaticon, Dribble</li>
+  <li><b>CI/CD:</b> Github</li>
 </ol>
 
 # ScreenShoots
