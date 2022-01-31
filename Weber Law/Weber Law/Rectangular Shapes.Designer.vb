@@ -157,7 +157,7 @@ Partial Class Rectangular_Shapes
         Me.Label16.Name = "Label16"
         Me.Label16.Size = New System.Drawing.Size(173, 41)
         Me.Label16.TabIndex = 67
-        Me.Label16.Text = "Ferdinan"
+        Me.Label16.Text = "Username"
         Me.Label16.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         '
         'GunaElipsePanel1

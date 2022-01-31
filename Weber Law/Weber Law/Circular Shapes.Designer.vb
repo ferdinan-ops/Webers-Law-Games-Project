@@ -121,7 +121,7 @@ Partial Class Circular_Shapes
         Me.GunaCirclePictureBox1.Location = New System.Drawing.Point(42, 32)
         Me.GunaCirclePictureBox1.Margin = New System.Windows.Forms.Padding(4)
         Me.GunaCirclePictureBox1.Name = "GunaCirclePictureBox1"
-        Me.GunaCirclePictureBox1.Size = New System.Drawing.Size(83, 76)
+        Me.GunaCirclePictureBox1.Size = New System.Drawing.Size(76, 76)
         Me.GunaCirclePictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
         Me.GunaCirclePictureBox1.TabIndex = 76
         Me.GunaCirclePictureBox1.TabStop = False
@@ -157,7 +157,7 @@ Partial Class Circular_Shapes
         Me.Label16.Name = "Label16"
         Me.Label16.Size = New System.Drawing.Size(173, 41)
         Me.Label16.TabIndex = 73
-        Me.Label16.Text = "Ferdinan"
+        Me.Label16.Text = "Username"
         Me.Label16.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         '
         'PictureBox2
